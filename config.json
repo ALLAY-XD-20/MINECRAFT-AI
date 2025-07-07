@@ -1,0 +1,26 @@
+{
+  "bot": {
+    "username": "PAWAN500"
+  },
+  "server": {
+    "host": "aternos.me",
+    "port": 25565,
+    "version": "1.20.1"
+  },
+  "auth": {
+    "password": "PAWAN500"
+  },
+  "aiAPIs": {
+    "chatgpt": "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",
+    "gemini": "AIzaSyAzkL-SdBOypoRKodIPhT2-LB4nPPJuLfs",
+    "deepseek": "sk-02891b334d0148ab9a14a0a5ab89b840"
+  },
+  "defaultAIModel": "chatgpt",
+  "settings": {
+    "autoReconnect": true,
+    "reconnectDelay": 5000,
+    "maxMessageLength": 100,
+    "conversationHistoryLimit": 10,
+    "responseDelay": 1000
+  }
+}
